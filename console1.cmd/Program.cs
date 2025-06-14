@@ -1,7 +1,7 @@
 ﻿using System.Runtime.CompilerServices;
 
 [assembly: InternalsVisibleTo("console1.test")]
-namespace console1
+namespace console1.cmd
 {
     internal class Program
     {
